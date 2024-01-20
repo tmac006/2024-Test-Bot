@@ -4,6 +4,8 @@
 
 #pragma once
 
+#define TEST_COMMIT 69
+
 /**
  * The Constants header provides a convenient place for teams to hold robot-wide
  * numerical or boolean constants.  This should not be used for any other
